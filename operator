@@ -7,5 +7,6 @@ public class ArithmeticOperators {
         System.out.println("Division: " + (a / b));
         System.out.println("Modulus: " + (a % b));
 System.out.println("vaidehi");
+system.out.println("vandita");
     }
 }
